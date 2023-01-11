@@ -1,5 +1,6 @@
 # Massive-Parallel-Processing
 ## Tasks
+```
 Stack with Elimination
 Michael-Scott Queue
 Possible Executions Analysis
@@ -20,3 +21,4 @@ MCS Lock
 Lock-Free Bank
 CASN (НЕОБЯЗАТЕЛЬНО)
 STM Bank
+```
