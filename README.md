@@ -19,6 +19,6 @@ Flat-Combining Priority Queue
 MSQueue-Based Synchronous Queue 
 MCS Lock
 Lock-Free Bank
-CASN (НЕОБЯЗАТЕЛЬНО)
+CASN
 STM Bank
 ```
