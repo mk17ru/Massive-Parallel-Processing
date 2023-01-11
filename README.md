@@ -1,4 +1,5 @@
-# Massive-Parallel-Processing
+# Massive-Parallel-Processing in ITMO university
+You can find the task inside the folders
 ## Tasks
 ```
 1. Stack with Elimination
